@@ -75,7 +75,6 @@
         "dropper",
         "furnace",
         "observer",
-        "#place_block_to_mine_block:gold_tool",
         "#place_block_to_mine_block:copper_tool",
         "#place_block_to_mine_block:iron_tool"
     ]

@@ -22,6 +22,7 @@
         "campfire",
         "creaking_heart",
         "soul_campfire",
+        "#place_block_to_mine_block:gold_tool",
         "#place_block_to_mine_block:stone_tool"
     ]
 }

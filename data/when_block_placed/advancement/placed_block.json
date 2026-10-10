@@ -1,0 +1,10 @@
+{
+    "criteria": {
+        "placed_block": {
+            "trigger": "placed_block"
+        }
+    },
+    "rewards": {
+        "function": "when_block_placed:placed_block"
+    }
+}

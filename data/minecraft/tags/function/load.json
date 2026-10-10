@@ -1,0 +1,6 @@
+{
+    "values": [
+        "iris:setup/load",
+        "when_block_placed:load"
+    ]
+}

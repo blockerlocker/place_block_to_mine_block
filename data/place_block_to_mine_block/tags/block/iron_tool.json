@@ -1,0 +1,22 @@
+{
+    "values": [
+        "iron_bars",
+        "iron_block",
+        "iron_chain",
+        "iron_ore",
+        "iron_trapdoor",
+        "raw_iron_block",
+        "deepslate_iron_ore",
+        "hopper",
+        "#anvil",
+        "blast_furnace",
+        "cauldron",
+        "crafter",
+        "lodestone",
+        "piston",
+        "smithing_table",
+        "stonecutter",
+        "#needs_iron_tool",
+        "#place_block_to_mine_block:diamond_tool"
+    ]
+}

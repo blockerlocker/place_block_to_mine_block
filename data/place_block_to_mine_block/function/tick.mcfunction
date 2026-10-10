@@ -1,0 +1,1 @@
+execute as @a run attribute @s block_break_speed base set -20000

@@ -1,0 +1,27 @@
+{
+    "values": [
+        "#logs",
+        "#planks",
+        "#wooden_fences",
+        "#wooden_shelves",
+        "#wooden_slabs",
+        "#wooden_stairs",
+        "#wooden_trapdoors",
+        "#fence_gates",
+        "barrel",
+        "beehive",
+        "bookshelf",
+        "cartography_table",
+        "chest",
+        "trapped_chest",
+        "chiseled_bookshelf",
+        "crafting_table",
+        "fletching_table",
+        "loom",
+        "note_block",
+        "campfire",
+        "creaking_heart",
+        "soul_campfire",
+        "#place_block_to_mine_block:stone_tool"
+    ]
+}

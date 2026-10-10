@@ -1,0 +1,6 @@
+{
+    "values": [
+        "when_block_placed:tick/main",
+        "place_block_to_mine_block:tick"
+    ]
+}

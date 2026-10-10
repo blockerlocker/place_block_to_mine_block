@@ -1,0 +1,1 @@
+execute as @a at @s anchored eyes positioned ^ ^ ^ run function when_block_placed:tick/player
